@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 https://portfolio-voi99.vercel.app/
 <!--
