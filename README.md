@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ivan Popovic</h1>
+<h1 align="center">Hi 👋, I'm Ivan</h1>
 <h3 align="center">Frontend developer from Montenegro</h3>
 
 - 👨‍💻 All of my projects are available at [https://portfolio-voi99.vercel.app/](https://portfolio-voi99.vercel.app/)
