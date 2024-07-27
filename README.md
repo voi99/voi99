@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ivan</h1>
 <h3 align="center">Frontend developer from Montenegro</h3>
 
-- 👨‍💻 All of my projects are available at [https://www.voi-dev.com/](https://www.voi-dev.com/)
+- 👨‍💻 All of my projects are available at [https://voi-dev.vercel.app/](https://voi-dev.vercel.app/)
 
 - 📫 How to reach me **ivanivopop@gmail.com**
 
